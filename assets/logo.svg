@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 382 540"><defs>
+    <linearGradient id="mavi" x1="80%" y1="0%" x2="12%" y2="100%" gradientUnits="objectBoundingBox"><stop stop-color="#319dd0"/><stop offset="1" stop-color="#245385"/></linearGradient>
+    <linearGradient id="yesil" x1="92%" y1="15%" x2="6%" y2="100%" gradientUnits="objectBoundingBox"><stop stop-color="#71a948"/><stop offset="1" stop-color="#305f4c"/></linearGradient></defs>
+      <path fill="url(#mavi)" d="M184 0c18 50 48 85 67 117 23 40 3 85-22 110-26 26-73 48-113 82-46 39-76 114-36 196C20 461-7 402 1 335 12 229 136 122 184 0Z"/>
+      <path fill="#31a5d5" opacity=".27" d="M186 37c11 16 48 57 59 103 17 67-67 111-133 166 13-52 35-95 55-146 19-47 23-89 19-123Z"/>
+      <path fill="#fff" d="M204 81c12 17 24 36 25 48 3 17-13 18-17 2-2-11-2-25-8-50Z"/>
+      <path fill="url(#yesil)" d="M276 147c34 40 52 80 46 125-6 60-47 105-111 139-56 29-92 52-114 90-36-87 7-160 75-208 44-30 118-69 104-146Zm30 78c-13 44-41 69-83 96-56 37-92 71-113 126 32-52 69-82 126-120 42-28 66-64 70-102Z" fill-rule="evenodd"/>
+      <path fill="url(#yesil)" d="M336 236c34 50 53 111 43 164-11 68-65 118-121 133-49 13-96 7-142-7 22-43 55-73 108-106 76-50 130-104 112-184Z"/>
+      <path fill="#91c054" opacity=".2" d="M377 369c-20 40-84 88-171 73-43 28-74 57-90 84 92 17 155-5 202-46 33-29 52-64 59-111Z"/>
+    </svg>
